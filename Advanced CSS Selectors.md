@@ -9,12 +9,12 @@ This past January, I gave a presentation at work on advanced CSS selectors, intr
 This article assumes that you're already familiar with constructing simple `id` and `class` selectors, and covers more advanced selectors that may be created when combining these simple selectors.  
 
 ##Table of Contents
-1. ####Hierarchical Selectors
+1. **Hierarchical Selectors**
    1. Descendant
    2. Child
    3. Adjacent
    4. Sibling
-2. ####Attribute Selectors
+2. **Attribute Selectors**
    1. Has Attribute
    2. Attribute Equals
    3. Attribute Contains
